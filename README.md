@@ -1,5 +1,5 @@
 # Computer-Vision
----
+
 # Computer Vision Task 1
 
 This repository contains basic OpenCV setup tasks for the Computer Vision course.
